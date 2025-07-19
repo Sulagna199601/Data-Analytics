@@ -26,4 +26,6 @@ The project employs a variety of data analysis techniques, including descriptive
 4.Results:
 
 The findings of the analysis are presented in a clear and concise manner, using visualizations, tables, and summary statistics. The results highlight key insights and actionable recommendations for Restuarent owners
-5.Screenshot of Dashboard:<img width="1907" height="909" alt="Blinkit project ss" src="https://github.com/user-attachments/assets/451e39c1-e55a-4592-9ec7-8494aa370112" />
+
+5.Screenshot of Dashboard
+:<img width="1907" height="909" alt="Blinkit project ss" src="https://github.com/user-attachments/assets/451e39c1-e55a-4592-9ec7-8494aa370112" />
